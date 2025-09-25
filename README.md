@@ -14,7 +14,7 @@ Password: 12345
 
 ![1758800949554](image/README/1758800949554.png)
 
-2.node cookie_auth.js
+b.node cookie_auth.js
 
 POST http://localhost:3001/login
 Body -> raw
